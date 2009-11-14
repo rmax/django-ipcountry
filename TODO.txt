@@ -1,0 +1,19 @@
+* flags support
+  - media path configurable via settings
+  - allow to specify filename format. e.g. "en.png" "us.gif"
+
+* free flags images
+    - http://www.ip2location.com/flagsoftheworld.aspx
+    - http://www.famfamfam.com/lab/icons/flags/
+
+* free databases
+  - http://www.maxmind.com/app/geoip_country
+    - csv format
+    - binary format w/ python api
+  - http://ip-to-country.webhosting.info/node/view/6
+    - only csv format
+
+* using csv format
+  - django command to update database from given csv 
+    
+
