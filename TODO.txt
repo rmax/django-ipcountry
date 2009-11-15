@@ -1,3 +1,14 @@
+* maxmind support
+  - csv to model import
+  - binary format lookup
+
+* ip-to-country support
+  - csv to model import
+
+* integrate django gis if it's possible
+
+* optimize ip-country lookup at orm/sql level
+
 * flags support
   - media path configurable via settings
   - allow to specify filename format. e.g. "en.png" "us.gif"
